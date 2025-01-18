@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace GestaoMercadoriasApp.Domain.Models.Enums
 {
-    public enum ProductType
+    public enum MovementType
     {
         Input = 1,
         Output = 2,

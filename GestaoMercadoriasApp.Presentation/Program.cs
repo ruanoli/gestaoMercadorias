@@ -1,4 +1,6 @@
+using GestaoMercadoriasApp.Domain.Interfaces;
 using GestaoMercadoriasApp.Infra.Context;
+using GestaoMercadoriasApp.Infra.Repositories;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -8,6 +10,9 @@ builder.Services.AddControllersWithViews();
 
 builder.Services.AddDbContext<DataContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+
+builder.Services.AddScoped<IProductRepository, ProductRepository>();
+builder.Services.AddScoped<IMovementRepository, MovementRepository>();
 
 var app = builder.Build();
 

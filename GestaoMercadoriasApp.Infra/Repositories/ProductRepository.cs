@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace GestaoMercadoriasApp.Infra.Repositories
 {
-    internal class ProductRepository : BaseRepository<Product>, IProductRepository
+    public class ProductRepository : BaseRepository<Product>, IProductRepository
     {
         private readonly DataContext _dataContext;
 

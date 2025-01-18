@@ -1,4 +1,7 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using GestaoMercadoriasApp.Domain.Interfaces;
+using GestaoMercadoriasApp.Domain.Models;
+using GestaoMercadoriasApp.Presentation.ViewModels;
+using Microsoft.AspNetCore.Mvc;
 
 namespace GestaoMercadoriasApp.Presentation.Controllers
 {
