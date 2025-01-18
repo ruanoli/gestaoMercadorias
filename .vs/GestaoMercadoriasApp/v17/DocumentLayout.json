@@ -1,0 +1,445 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ruan1\\OneDrive\\\u00C1rea de Trabalho\\Projetos\\MVC\\GestaoMercadoriasApp\\GestaoMercadoriasApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C0454761-17D8-4CB2-A5BB-DF21EBE92892}|GestaoMercadoriasApp.Presentation\\GestaoMercadoriasApp.Presentation.csproj|c:\\users\\ruan1\\onedrive\\\u00E1rea de trabalho\\projetos\\mvc\\gestaomercadoriasapp\\gestaomercadoriasapp\\gestaomercadoriasapp.presentation\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0454761-17D8-4CB2-A5BB-DF21EBE92892}|GestaoMercadoriasApp.Presentation\\GestaoMercadoriasApp.Presentation.csproj|solutionrelative:gestaomercadoriasapp.presentation\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0454761-17D8-4CB2-A5BB-DF21EBE92892}|GestaoMercadoriasApp.Presentation\\GestaoMercadoriasApp.Presentation.csproj|c:\\users\\ruan1\\onedrive\\\u00E1rea de trabalho\\projetos\\mvc\\gestaomercadoriasapp\\gestaomercadoriasapp\\gestaomercadoriasapp.presentation\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0454761-17D8-4CB2-A5BB-DF21EBE92892}|GestaoMercadoriasApp.Presentation\\GestaoMercadoriasApp.Presentation.csproj|solutionrelative:gestaomercadoriasapp.presentation\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0454761-17D8-4CB2-A5BB-DF21EBE92892}|GestaoMercadoriasApp.Presentation\\GestaoMercadoriasApp.Presentation.csproj|c:\\users\\ruan1\\onedrive\\\u00E1rea de trabalho\\projetos\\mvc\\gestaomercadoriasapp\\gestaomercadoriasapp\\gestaomercadoriasapp.presentation\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0454761-17D8-4CB2-A5BB-DF21EBE92892}|GestaoMercadoriasApp.Presentation\\GestaoMercadoriasApp.Presentation.csproj|solutionrelative:gestaomercadoriasapp.presentation\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0454761-17D8-4CB2-A5BB-DF21EBE92892}|GestaoMercadoriasApp.Presentation\\GestaoMercadoriasApp.Presentation.csproj|c:\\users\\ruan1\\onedrive\\\u00E1rea de trabalho\\projetos\\mvc\\gestaomercadoriasapp\\gestaomercadoriasapp\\gestaomercadoriasapp.presentation\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0454761-17D8-4CB2-A5BB-DF21EBE92892}|GestaoMercadoriasApp.Presentation\\GestaoMercadoriasApp.Presentation.csproj|solutionrelative:gestaomercadoriasapp.presentation\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0454761-17D8-4CB2-A5BB-DF21EBE92892}|GestaoMercadoriasApp.Presentation\\GestaoMercadoriasApp.Presentation.csproj|c:\\users\\ruan1\\onedrive\\\u00E1rea de trabalho\\projetos\\mvc\\gestaomercadoriasapp\\gestaomercadoriasapp\\gestaomercadoriasapp.presentation\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0454761-17D8-4CB2-A5BB-DF21EBE92892}|GestaoMercadoriasApp.Presentation\\GestaoMercadoriasApp.Presentation.csproj|solutionrelative:gestaomercadoriasapp.presentation\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0454761-17D8-4CB2-A5BB-DF21EBE92892}|GestaoMercadoriasApp.Presentation\\GestaoMercadoriasApp.Presentation.csproj|c:\\users\\ruan1\\onedrive\\\u00E1rea de trabalho\\projetos\\mvc\\gestaomercadoriasapp\\gestaomercadoriasapp\\gestaomercadoriasapp.presentation\\views\\movement\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0454761-17D8-4CB2-A5BB-DF21EBE92892}|GestaoMercadoriasApp.Presentation\\GestaoMercadoriasApp.Presentation.csproj|solutionrelative:gestaomercadoriasapp.presentation\\views\\movement\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0454761-17D8-4CB2-A5BB-DF21EBE92892}|GestaoMercadoriasApp.Presentation\\GestaoMercadoriasApp.Presentation.csproj|c:\\users\\ruan1\\onedrive\\\u00E1rea de trabalho\\projetos\\mvc\\gestaomercadoriasapp\\gestaomercadoriasapp\\gestaomercadoriasapp.presentation\\controllers\\movementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0454761-17D8-4CB2-A5BB-DF21EBE92892}|GestaoMercadoriasApp.Presentation\\GestaoMercadoriasApp.Presentation.csproj|solutionrelative:gestaomercadoriasapp.presentation\\controllers\\movementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0454761-17D8-4CB2-A5BB-DF21EBE92892}|GestaoMercadoriasApp.Presentation\\GestaoMercadoriasApp.Presentation.csproj|c:\\users\\ruan1\\onedrive\\\u00E1rea de trabalho\\projetos\\mvc\\gestaomercadoriasapp\\gestaomercadoriasapp\\gestaomercadoriasapp.presentation\\views\\movement\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0454761-17D8-4CB2-A5BB-DF21EBE92892}|GestaoMercadoriasApp.Presentation\\GestaoMercadoriasApp.Presentation.csproj|solutionrelative:gestaomercadoriasapp.presentation\\views\\movement\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0454761-17D8-4CB2-A5BB-DF21EBE92892}|GestaoMercadoriasApp.Presentation\\GestaoMercadoriasApp.Presentation.csproj|c:\\users\\ruan1\\onedrive\\\u00E1rea de trabalho\\projetos\\mvc\\gestaomercadoriasapp\\gestaomercadoriasapp\\gestaomercadoriasapp.presentation\\views\\product\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0454761-17D8-4CB2-A5BB-DF21EBE92892}|GestaoMercadoriasApp.Presentation\\GestaoMercadoriasApp.Presentation.csproj|solutionrelative:gestaomercadoriasapp.presentation\\views\\product\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0454761-17D8-4CB2-A5BB-DF21EBE92892}|GestaoMercadoriasApp.Presentation\\GestaoMercadoriasApp.Presentation.csproj|c:\\users\\ruan1\\onedrive\\\u00E1rea de trabalho\\projetos\\mvc\\gestaomercadoriasapp\\gestaomercadoriasapp\\gestaomercadoriasapp.presentation\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0454761-17D8-4CB2-A5BB-DF21EBE92892}|GestaoMercadoriasApp.Presentation\\GestaoMercadoriasApp.Presentation.csproj|solutionrelative:gestaomercadoriasapp.presentation\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B7F1DB2-A7AF-4B02-A3AB-54D7E0A84E8D}|GestaoMercadoriasApp.Infra\\GestaoMercadoriasApp.Infra.csproj|c:\\users\\ruan1\\onedrive\\\u00E1rea de trabalho\\projetos\\mvc\\gestaomercadoriasapp\\gestaomercadoriasapp\\gestaomercadoriasapp.infra\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B7F1DB2-A7AF-4B02-A3AB-54D7E0A84E8D}|GestaoMercadoriasApp.Infra\\GestaoMercadoriasApp.Infra.csproj|solutionrelative:gestaomercadoriasapp.infra\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B7F1DB2-A7AF-4B02-A3AB-54D7E0A84E8D}|GestaoMercadoriasApp.Infra\\GestaoMercadoriasApp.Infra.csproj|c:\\users\\ruan1\\onedrive\\\u00E1rea de trabalho\\projetos\\mvc\\gestaomercadoriasapp\\gestaomercadoriasapp\\gestaomercadoriasapp.infra\\repositories\\movementrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B7F1DB2-A7AF-4B02-A3AB-54D7E0A84E8D}|GestaoMercadoriasApp.Infra\\GestaoMercadoriasApp.Infra.csproj|solutionrelative:gestaomercadoriasapp.infra\\repositories\\movementrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDCC8D47-9D77-48C5-AAD1-D10692CCD9E4}|GestaoMercadoriasApp.Data\\GestaoMercadoriasApp.Domain.csproj|c:\\users\\ruan1\\onedrive\\\u00E1rea de trabalho\\projetos\\mvc\\gestaomercadoriasapp\\gestaomercadoriasapp\\gestaomercadoriasapp.data\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDCC8D47-9D77-48C5-AAD1-D10692CCD9E4}|GestaoMercadoriasApp.Data\\GestaoMercadoriasApp.Domain.csproj|solutionrelative:gestaomercadoriasapp.data\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDCC8D47-9D77-48C5-AAD1-D10692CCD9E4}|GestaoMercadoriasApp.Data\\GestaoMercadoriasApp.Domain.csproj|c:\\users\\ruan1\\onedrive\\\u00E1rea de trabalho\\projetos\\mvc\\gestaomercadoriasapp\\gestaomercadoriasapp\\gestaomercadoriasapp.data\\interfaces\\imovementrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDCC8D47-9D77-48C5-AAD1-D10692CCD9E4}|GestaoMercadoriasApp.Data\\GestaoMercadoriasApp.Domain.csproj|solutionrelative:gestaomercadoriasapp.data\\interfaces\\imovementrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B7F1DB2-A7AF-4B02-A3AB-54D7E0A84E8D}|GestaoMercadoriasApp.Infra\\GestaoMercadoriasApp.Infra.csproj|c:\\users\\ruan1\\onedrive\\\u00E1rea de trabalho\\projetos\\mvc\\gestaomercadoriasapp\\gestaomercadoriasapp\\gestaomercadoriasapp.infra\\repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B7F1DB2-A7AF-4B02-A3AB-54D7E0A84E8D}|GestaoMercadoriasApp.Infra\\GestaoMercadoriasApp.Infra.csproj|solutionrelative:gestaomercadoriasapp.infra\\repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0454761-17D8-4CB2-A5BB-DF21EBE92892}|GestaoMercadoriasApp.Presentation\\GestaoMercadoriasApp.Presentation.csproj|c:\\users\\ruan1\\onedrive\\\u00E1rea de trabalho\\projetos\\mvc\\gestaomercadoriasapp\\gestaomercadoriasapp\\gestaomercadoriasapp.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0454761-17D8-4CB2-A5BB-DF21EBE92892}|GestaoMercadoriasApp.Presentation\\GestaoMercadoriasApp.Presentation.csproj|solutionrelative:gestaomercadoriasapp.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B7F1DB2-A7AF-4B02-A3AB-54D7E0A84E8D}|GestaoMercadoriasApp.Infra\\GestaoMercadoriasApp.Infra.csproj|c:\\users\\ruan1\\onedrive\\\u00E1rea de trabalho\\projetos\\mvc\\gestaomercadoriasapp\\gestaomercadoriasapp\\gestaomercadoriasapp.infra\\context\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B7F1DB2-A7AF-4B02-A3AB-54D7E0A84E8D}|GestaoMercadoriasApp.Infra\\GestaoMercadoriasApp.Infra.csproj|solutionrelative:gestaomercadoriasapp.infra\\context\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDCC8D47-9D77-48C5-AAD1-D10692CCD9E4}|GestaoMercadoriasApp.Data\\GestaoMercadoriasApp.Domain.csproj|c:\\users\\ruan1\\onedrive\\\u00E1rea de trabalho\\projetos\\mvc\\gestaomercadoriasapp\\gestaomercadoriasapp\\gestaomercadoriasapp.data\\interfaces\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDCC8D47-9D77-48C5-AAD1-D10692CCD9E4}|GestaoMercadoriasApp.Data\\GestaoMercadoriasApp.Domain.csproj|solutionrelative:gestaomercadoriasapp.data\\interfaces\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B7F1DB2-A7AF-4B02-A3AB-54D7E0A84E8D}|GestaoMercadoriasApp.Infra\\GestaoMercadoriasApp.Infra.csproj|c:\\users\\ruan1\\onedrive\\\u00E1rea de trabalho\\projetos\\mvc\\gestaomercadoriasapp\\gestaomercadoriasapp\\gestaomercadoriasapp.infra\\migrations\\20250108013109_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B7F1DB2-A7AF-4B02-A3AB-54D7E0A84E8D}|GestaoMercadoriasApp.Infra\\GestaoMercadoriasApp.Infra.csproj|solutionrelative:gestaomercadoriasapp.infra\\migrations\\20250108013109_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0454761-17D8-4CB2-A5BB-DF21EBE92892}|GestaoMercadoriasApp.Presentation\\GestaoMercadoriasApp.Presentation.csproj|c:\\users\\ruan1\\onedrive\\\u00E1rea de trabalho\\projetos\\mvc\\gestaomercadoriasapp\\gestaomercadoriasapp\\gestaomercadoriasapp.presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C0454761-17D8-4CB2-A5BB-DF21EBE92892}|GestaoMercadoriasApp.Presentation\\GestaoMercadoriasApp.Presentation.csproj|solutionrelative:gestaomercadoriasapp.presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B7F1DB2-A7AF-4B02-A3AB-54D7E0A84E8D}|GestaoMercadoriasApp.Infra\\GestaoMercadoriasApp.Infra.csproj|c:\\users\\ruan1\\onedrive\\\u00E1rea de trabalho\\projetos\\mvc\\gestaomercadoriasapp\\gestaomercadoriasapp\\gestaomercadoriasapp.infra\\gestaomercadoriasapp.infra.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7B7F1DB2-A7AF-4B02-A3AB-54D7E0A84E8D}|GestaoMercadoriasApp.Infra\\GestaoMercadoriasApp.Infra.csproj|solutionrelative:gestaomercadoriasapp.infra\\gestaomercadoriasapp.infra.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDCC8D47-9D77-48C5-AAD1-D10692CCD9E4}|GestaoMercadoriasApp.Data\\GestaoMercadoriasApp.Domain.csproj|c:\\users\\ruan1\\onedrive\\\u00E1rea de trabalho\\projetos\\mvc\\gestaomercadoriasapp\\gestaomercadoriasapp\\gestaomercadoriasapp.data\\gestaomercadoriasapp.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EDCC8D47-9D77-48C5-AAD1-D10692CCD9E4}|GestaoMercadoriasApp.Data\\GestaoMercadoriasApp.Domain.csproj|solutionrelative:gestaomercadoriasapp.data\\gestaomercadoriasapp.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0454761-17D8-4CB2-A5BB-DF21EBE92892}|GestaoMercadoriasApp.Presentation\\GestaoMercadoriasApp.Presentation.csproj|c:\\users\\ruan1\\onedrive\\\u00E1rea de trabalho\\projetos\\mvc\\gestaomercadoriasapp\\gestaomercadoriasapp\\gestaomercadoriasapp.presentation\\gestaomercadoriasapp.presentation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C0454761-17D8-4CB2-A5BB-DF21EBE92892}|GestaoMercadoriasApp.Presentation\\GestaoMercadoriasApp.Presentation.csproj|solutionrelative:gestaomercadoriasapp.presentation\\gestaomercadoriasapp.presentation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDCC8D47-9D77-48C5-AAD1-D10692CCD9E4}|GestaoMercadoriasApp.Data\\GestaoMercadoriasApp.Domain.csproj|c:\\users\\ruan1\\onedrive\\\u00E1rea de trabalho\\projetos\\mvc\\gestaomercadoriasapp\\gestaomercadoriasapp\\gestaomercadoriasapp.data\\models\\movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDCC8D47-9D77-48C5-AAD1-D10692CCD9E4}|GestaoMercadoriasApp.Data\\GestaoMercadoriasApp.Domain.csproj|solutionrelative:gestaomercadoriasapp.data\\models\\movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDCC8D47-9D77-48C5-AAD1-D10692CCD9E4}|GestaoMercadoriasApp.Data\\GestaoMercadoriasApp.Domain.csproj|c:\\users\\ruan1\\onedrive\\\u00E1rea de trabalho\\projetos\\mvc\\gestaomercadoriasapp\\gestaomercadoriasapp\\gestaomercadoriasapp.data\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDCC8D47-9D77-48C5-AAD1-D10692CCD9E4}|GestaoMercadoriasApp.Data\\GestaoMercadoriasApp.Domain.csproj|solutionrelative:gestaomercadoriasapp.data\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDCC8D47-9D77-48C5-AAD1-D10692CCD9E4}|GestaoMercadoriasApp.Data\\GestaoMercadoriasApp.Domain.csproj|c:\\users\\ruan1\\onedrive\\\u00E1rea de trabalho\\projetos\\mvc\\gestaomercadoriasapp\\gestaomercadoriasapp\\gestaomercadoriasapp.data\\models\\enums\\producttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDCC8D47-9D77-48C5-AAD1-D10692CCD9E4}|GestaoMercadoriasApp.Data\\GestaoMercadoriasApp.Domain.csproj|solutionrelative:gestaomercadoriasapp.data\\models\\enums\\producttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\ruan1\\OneDrive\\\u00C1rea de Trabalho\\Projetos\\MVC\\GestaoMercadoriasApp\\GestaoMercadoriasApp\\GestaoMercadoriasApp.Presentation\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "GestaoMercadoriasApp.Presentation\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\ruan1\\OneDrive\\\u00C1rea de Trabalho\\Projetos\\MVC\\GestaoMercadoriasApp\\GestaoMercadoriasApp\\GestaoMercadoriasApp.Presentation\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "GestaoMercadoriasApp.Presentation\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T06:16:41.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ruan1\\OneDrive\\\u00C1rea de Trabalho\\Projetos\\MVC\\GestaoMercadoriasApp\\GestaoMercadoriasApp\\GestaoMercadoriasApp.Presentation\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "GestaoMercadoriasApp.Presentation\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ruan1\\OneDrive\\\u00C1rea de Trabalho\\Projetos\\MVC\\GestaoMercadoriasApp\\GestaoMercadoriasApp\\GestaoMercadoriasApp.Presentation\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "GestaoMercadoriasApp.Presentation\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T06:10:34.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ruan1\\OneDrive\\\u00C1rea de Trabalho\\Projetos\\MVC\\GestaoMercadoriasApp\\GestaoMercadoriasApp\\GestaoMercadoriasApp.Presentation\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "GestaoMercadoriasApp.Presentation\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ruan1\\OneDrive\\\u00C1rea de Trabalho\\Projetos\\MVC\\GestaoMercadoriasApp\\GestaoMercadoriasApp\\GestaoMercadoriasApp.Presentation\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "GestaoMercadoriasApp.Presentation\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T06:10:25.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\ruan1\\OneDrive\\\u00C1rea de Trabalho\\Projetos\\MVC\\GestaoMercadoriasApp\\GestaoMercadoriasApp\\GestaoMercadoriasApp.Presentation\\Views\\Movement\\Register.cshtml",
+              "RelativeDocumentMoniker": "GestaoMercadoriasApp.Presentation\\Views\\Movement\\Register.cshtml",
+              "ToolTip": "C:\\Users\\ruan1\\OneDrive\\\u00C1rea de Trabalho\\Projetos\\MVC\\GestaoMercadoriasApp\\GestaoMercadoriasApp\\GestaoMercadoriasApp.Presentation\\Views\\Movement\\Register.cshtml",
+              "RelativeToolTip": "GestaoMercadoriasApp.Presentation\\Views\\Movement\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T06:07:28.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ruan1\\OneDrive\\\u00C1rea de Trabalho\\Projetos\\MVC\\GestaoMercadoriasApp\\GestaoMercadoriasApp\\GestaoMercadoriasApp.Presentation\\Views\\Movement\\Index.cshtml",
+              "RelativeDocumentMoniker": "GestaoMercadoriasApp.Presentation\\Views\\Movement\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ruan1\\OneDrive\\\u00C1rea de Trabalho\\Projetos\\MVC\\GestaoMercadoriasApp\\GestaoMercadoriasApp\\GestaoMercadoriasApp.Presentation\\Views\\Movement\\Index.cshtml",
+              "RelativeToolTip": "GestaoMercadoriasApp.Presentation\\Views\\Movement\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T06:07:16.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\ruan1\\OneDrive\\\u00C1rea de Trabalho\\Projetos\\MVC\\GestaoMercadoriasApp\\GestaoMercadoriasApp\\GestaoMercadoriasApp.Presentation\\Views\\Product\\Register.cshtml",
+              "RelativeDocumentMoniker": "GestaoMercadoriasApp.Presentation\\Views\\Product\\Register.cshtml",
+              "ToolTip": "C:\\Users\\ruan1\\OneDrive\\\u00C1rea de Trabalho\\Projetos\\MVC\\GestaoMercadoriasApp\\GestaoMercadoriasApp\\GestaoMercadoriasApp.Presentation\\Views\\Product\\Register.cshtml",
+              "RelativeToolTip": "GestaoMercadoriasApp.Presentation\\Views\\Product\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T06:06:14.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ruan1\\OneDrive\\\u00C1rea de Trabalho\\Projetos\\MVC\\GestaoMercadoriasApp\\GestaoMercadoriasApp\\GestaoMercadoriasApp.Presentation\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "GestaoMercadoriasApp.Presentation\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ruan1\\OneDrive\\\u00C1rea de Trabalho\\Projetos\\MVC\\GestaoMercadoriasApp\\GestaoMercadoriasApp\\GestaoMercadoriasApp.Presentation\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "GestaoMercadoriasApp.Presentation\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T06:05:59.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\ruan1\\OneDrive\\\u00C1rea de Trabalho\\Projetos\\MVC\\GestaoMercadoriasApp\\GestaoMercadoriasApp\\GestaoMercadoriasApp.Presentation\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "GestaoMercadoriasApp.Presentation\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\ruan1\\OneDrive\\\u00C1rea de Trabalho\\Projetos\\MVC\\GestaoMercadoriasApp\\GestaoMercadoriasApp\\GestaoMercadoriasApp.Presentation\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "GestaoMercadoriasApp.Presentation\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T06:04:58.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MovementController.cs",
+              "DocumentMoniker": "C:\\Users\\ruan1\\OneDrive\\\u00C1rea de Trabalho\\Projetos\\MVC\\GestaoMercadoriasApp\\GestaoMercadoriasApp\\GestaoMercadoriasApp.Presentation\\Controllers\\MovementController.cs",
+              "RelativeDocumentMoniker": "GestaoMercadoriasApp.Presentation\\Controllers\\MovementController.cs",
+              "ToolTip": "C:\\Users\\ruan1\\OneDrive\\\u00C1rea de Trabalho\\Projetos\\MVC\\GestaoMercadoriasApp\\GestaoMercadoriasApp\\GestaoMercadoriasApp.Presentation\\Controllers\\MovementController.cs",
+              "RelativeToolTip": "GestaoMercadoriasApp.Presentation\\Controllers\\MovementController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T06:04:30.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ruan1\\OneDrive\\\u00C1rea de Trabalho\\Projetos\\MVC\\GestaoMercadoriasApp\\GestaoMercadoriasApp\\GestaoMercadoriasApp.Infra\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "GestaoMercadoriasApp.Infra\\Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\ruan1\\OneDrive\\\u00C1rea de Trabalho\\Projetos\\MVC\\GestaoMercadoriasApp\\GestaoMercadoriasApp\\GestaoMercadoriasApp.Infra\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "GestaoMercadoriasApp.Infra\\Repositories\\ProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T06:01:52.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ruan1\\OneDrive\\\u00C1rea de Trabalho\\Projetos\\MVC\\GestaoMercadoriasApp\\GestaoMercadoriasApp\\GestaoMercadoriasApp.Presentation\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "GestaoMercadoriasApp.Presentation\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ruan1\\OneDrive\\\u00C1rea de Trabalho\\Projetos\\MVC\\GestaoMercadoriasApp\\GestaoMercadoriasApp\\GestaoMercadoriasApp.Presentation\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "GestaoMercadoriasApp.Presentation\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAByAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-08T01:07:34.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MovementRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ruan1\\OneDrive\\\u00C1rea de Trabalho\\Projetos\\MVC\\GestaoMercadoriasApp\\GestaoMercadoriasApp\\GestaoMercadoriasApp.Infra\\Repositories\\MovementRepository.cs",
+              "RelativeDocumentMoniker": "GestaoMercadoriasApp.Infra\\Repositories\\MovementRepository.cs",
+              "ToolTip": "C:\\Users\\ruan1\\OneDrive\\\u00C1rea de Trabalho\\Projetos\\MVC\\GestaoMercadoriasApp\\GestaoMercadoriasApp\\GestaoMercadoriasApp.Infra\\Repositories\\MovementRepository.cs",
+              "RelativeToolTip": "GestaoMercadoriasApp.Infra\\Repositories\\MovementRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T05:59:37.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ruan1\\OneDrive\\\u00C1rea de Trabalho\\Projetos\\MVC\\GestaoMercadoriasApp\\GestaoMercadoriasApp\\GestaoMercadoriasApp.Data\\Interfaces\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "GestaoMercadoriasApp.Data\\Interfaces\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\ruan1\\OneDrive\\\u00C1rea de Trabalho\\Projetos\\MVC\\GestaoMercadoriasApp\\GestaoMercadoriasApp\\GestaoMercadoriasApp.Data\\Interfaces\\IProductRepository.cs",
+              "RelativeToolTip": "GestaoMercadoriasApp.Data\\Interfaces\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T05:58:49.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IMovementRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ruan1\\OneDrive\\\u00C1rea de Trabalho\\Projetos\\MVC\\GestaoMercadoriasApp\\GestaoMercadoriasApp\\GestaoMercadoriasApp.Data\\Interfaces\\IMovementRepository.cs",
+              "RelativeDocumentMoniker": "GestaoMercadoriasApp.Data\\Interfaces\\IMovementRepository.cs",
+              "ToolTip": "C:\\Users\\ruan1\\OneDrive\\\u00C1rea de Trabalho\\Projetos\\MVC\\GestaoMercadoriasApp\\GestaoMercadoriasApp\\GestaoMercadoriasApp.Data\\Interfaces\\IMovementRepository.cs",
+              "RelativeToolTip": "GestaoMercadoriasApp.Data\\Interfaces\\IMovementRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T05:57:43.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BaseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ruan1\\OneDrive\\\u00C1rea de Trabalho\\Projetos\\MVC\\GestaoMercadoriasApp\\GestaoMercadoriasApp\\GestaoMercadoriasApp.Infra\\Repositories\\BaseRepository.cs",
+              "RelativeDocumentMoniker": "GestaoMercadoriasApp.Infra\\Repositories\\BaseRepository.cs",
+              "ToolTip": "C:\\Users\\ruan1\\OneDrive\\\u00C1rea de Trabalho\\Projetos\\MVC\\GestaoMercadoriasApp\\GestaoMercadoriasApp\\GestaoMercadoriasApp.Infra\\Repositories\\BaseRepository.cs",
+              "RelativeToolTip": "GestaoMercadoriasApp.Infra\\Repositories\\BaseRepository.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACwAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T05:47:36.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IBaseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ruan1\\OneDrive\\\u00C1rea de Trabalho\\Projetos\\MVC\\GestaoMercadoriasApp\\GestaoMercadoriasApp\\GestaoMercadoriasApp.Data\\Interfaces\\IBaseRepository.cs",
+              "RelativeDocumentMoniker": "GestaoMercadoriasApp.Data\\Interfaces\\IBaseRepository.cs",
+              "ToolTip": "C:\\Users\\ruan1\\OneDrive\\\u00C1rea de Trabalho\\Projetos\\MVC\\GestaoMercadoriasApp\\GestaoMercadoriasApp\\GestaoMercadoriasApp.Data\\Interfaces\\IBaseRepository.cs",
+              "RelativeToolTip": "GestaoMercadoriasApp.Data\\Interfaces\\IBaseRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T05:47:11.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20250108013109_InitialMigration.cs",
+              "DocumentMoniker": "C:\\Users\\ruan1\\OneDrive\\\u00C1rea de Trabalho\\Projetos\\MVC\\GestaoMercadoriasApp\\GestaoMercadoriasApp\\GestaoMercadoriasApp.Infra\\Migrations\\20250108013109_InitialMigration.cs",
+              "RelativeDocumentMoniker": "GestaoMercadoriasApp.Infra\\Migrations\\20250108013109_InitialMigration.cs",
+              "ToolTip": "C:\\Users\\ruan1\\OneDrive\\\u00C1rea de Trabalho\\Projetos\\MVC\\GestaoMercadoriasApp\\GestaoMercadoriasApp\\GestaoMercadoriasApp.Infra\\Migrations\\20250108013109_InitialMigration.cs",
+              "RelativeToolTip": "GestaoMercadoriasApp.Infra\\Migrations\\20250108013109_InitialMigration.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T01:31:24.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\ruan1\\OneDrive\\\u00C1rea de Trabalho\\Projetos\\MVC\\GestaoMercadoriasApp\\GestaoMercadoriasApp\\GestaoMercadoriasApp.Infra\\Context\\DataContext.cs",
+              "RelativeDocumentMoniker": "GestaoMercadoriasApp.Infra\\Context\\DataContext.cs",
+              "ToolTip": "C:\\Users\\ruan1\\OneDrive\\\u00C1rea de Trabalho\\Projetos\\MVC\\GestaoMercadoriasApp\\GestaoMercadoriasApp\\GestaoMercadoriasApp.Infra\\Context\\DataContext.cs",
+              "RelativeToolTip": "GestaoMercadoriasApp.Infra\\Context\\DataContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T00:56:26.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ruan1\\OneDrive\\\u00C1rea de Trabalho\\Projetos\\MVC\\GestaoMercadoriasApp\\GestaoMercadoriasApp\\GestaoMercadoriasApp.Presentation\\Program.cs",
+              "RelativeDocumentMoniker": "GestaoMercadoriasApp.Presentation\\Program.cs",
+              "ToolTip": "C:\\Users\\ruan1\\OneDrive\\\u00C1rea de Trabalho\\Projetos\\MVC\\GestaoMercadoriasApp\\GestaoMercadoriasApp\\GestaoMercadoriasApp.Presentation\\Program.cs",
+              "RelativeToolTip": "GestaoMercadoriasApp.Presentation\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T00:55:31.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ruan1\\OneDrive\\\u00C1rea de Trabalho\\Projetos\\MVC\\GestaoMercadoriasApp\\GestaoMercadoriasApp\\GestaoMercadoriasApp.Presentation\\appsettings.json",
+              "RelativeDocumentMoniker": "GestaoMercadoriasApp.Presentation\\appsettings.json",
+              "ToolTip": "C:\\Users\\ruan1\\OneDrive\\\u00C1rea de Trabalho\\Projetos\\MVC\\GestaoMercadoriasApp\\GestaoMercadoriasApp\\GestaoMercadoriasApp.Presentation\\appsettings.json",
+              "RelativeToolTip": "GestaoMercadoriasApp.Presentation\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-08T00:53:21.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "GestaoMercadoriasApp.Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\ruan1\\OneDrive\\\u00C1rea de Trabalho\\Projetos\\MVC\\GestaoMercadoriasApp\\GestaoMercadoriasApp\\GestaoMercadoriasApp.Data\\GestaoMercadoriasApp.Domain.csproj",
+              "RelativeDocumentMoniker": "GestaoMercadoriasApp.Data\\GestaoMercadoriasApp.Domain.csproj",
+              "ToolTip": "C:\\Users\\ruan1\\OneDrive\\\u00C1rea de Trabalho\\Projetos\\MVC\\GestaoMercadoriasApp\\GestaoMercadoriasApp\\GestaoMercadoriasApp.Data\\GestaoMercadoriasApp.Domain.csproj",
+              "RelativeToolTip": "GestaoMercadoriasApp.Data\\GestaoMercadoriasApp.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-06T05:25:38.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "GestaoMercadoriasApp.Infra.csproj",
+              "DocumentMoniker": "C:\\Users\\ruan1\\OneDrive\\\u00C1rea de Trabalho\\Projetos\\MVC\\GestaoMercadoriasApp\\GestaoMercadoriasApp\\GestaoMercadoriasApp.Infra\\GestaoMercadoriasApp.Infra.csproj",
+              "RelativeDocumentMoniker": "GestaoMercadoriasApp.Infra\\GestaoMercadoriasApp.Infra.csproj",
+              "ToolTip": "C:\\Users\\ruan1\\OneDrive\\\u00C1rea de Trabalho\\Projetos\\MVC\\GestaoMercadoriasApp\\GestaoMercadoriasApp\\GestaoMercadoriasApp.Infra\\GestaoMercadoriasApp.Infra.csproj",
+              "RelativeToolTip": "GestaoMercadoriasApp.Infra\\GestaoMercadoriasApp.Infra.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-06T05:25:36.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Movement.cs",
+              "DocumentMoniker": "C:\\Users\\ruan1\\OneDrive\\\u00C1rea de Trabalho\\Projetos\\MVC\\GestaoMercadoriasApp\\GestaoMercadoriasApp\\GestaoMercadoriasApp.Data\\Models\\Movement.cs",
+              "RelativeDocumentMoniker": "GestaoMercadoriasApp.Data\\Models\\Movement.cs",
+              "ToolTip": "C:\\Users\\ruan1\\OneDrive\\\u00C1rea de Trabalho\\Projetos\\MVC\\GestaoMercadoriasApp\\GestaoMercadoriasApp\\GestaoMercadoriasApp.Data\\Models\\Movement.cs",
+              "RelativeToolTip": "GestaoMercadoriasApp.Data\\Models\\Movement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T04:13:03.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\ruan1\\OneDrive\\\u00C1rea de Trabalho\\Projetos\\MVC\\GestaoMercadoriasApp\\GestaoMercadoriasApp\\GestaoMercadoriasApp.Data\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "GestaoMercadoriasApp.Data\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\ruan1\\OneDrive\\\u00C1rea de Trabalho\\Projetos\\MVC\\GestaoMercadoriasApp\\GestaoMercadoriasApp\\GestaoMercadoriasApp.Data\\Models\\Product.cs",
+              "RelativeToolTip": "GestaoMercadoriasApp.Data\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T04:08:05.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ProductType.cs",
+              "DocumentMoniker": "C:\\Users\\ruan1\\OneDrive\\\u00C1rea de Trabalho\\Projetos\\MVC\\GestaoMercadoriasApp\\GestaoMercadoriasApp\\GestaoMercadoriasApp.Data\\Models\\Enums\\ProductType.cs",
+              "RelativeDocumentMoniker": "GestaoMercadoriasApp.Data\\Models\\Enums\\ProductType.cs",
+              "ToolTip": "C:\\Users\\ruan1\\OneDrive\\\u00C1rea de Trabalho\\Projetos\\MVC\\GestaoMercadoriasApp\\GestaoMercadoriasApp\\GestaoMercadoriasApp.Data\\Models\\Enums\\ProductType.cs",
+              "RelativeToolTip": "GestaoMercadoriasApp.Data\\Models\\Enums\\ProductType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T04:07:09.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "GestaoMercadoriasApp.Presentation.csproj",
+              "DocumentMoniker": "C:\\Users\\ruan1\\OneDrive\\\u00C1rea de Trabalho\\Projetos\\MVC\\GestaoMercadoriasApp\\GestaoMercadoriasApp\\GestaoMercadoriasApp.Presentation\\GestaoMercadoriasApp.Presentation.csproj",
+              "RelativeDocumentMoniker": "GestaoMercadoriasApp.Presentation\\GestaoMercadoriasApp.Presentation.csproj",
+              "ToolTip": "C:\\Users\\ruan1\\OneDrive\\\u00C1rea de Trabalho\\Projetos\\MVC\\GestaoMercadoriasApp\\GestaoMercadoriasApp\\GestaoMercadoriasApp.Presentation\\GestaoMercadoriasApp.Presentation.csproj",
+              "RelativeToolTip": "GestaoMercadoriasApp.Presentation\\GestaoMercadoriasApp.Presentation.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-06T04:05:03.603Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

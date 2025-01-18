@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GestaoMercadoriasApp.Presentation", "GestaoMercadoriasApp.Presentation\GestaoMercadoriasApp.Presentation.csproj", "{C0454761-17D8-4CB2-A5BB-DF21EBE92892}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentation", "{6D3B1DF4-6869-44B2-BAC7-8485AC61A69E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Domain", "Domain", "{C0D6EB31-573F-45C7-B966-96C31479672B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GestaoMercadoriasApp.Domain", "GestaoMercadoriasApp.Data\GestaoMercadoriasApp.Domain.csproj", "{EDCC8D47-9D77-48C5-AAD1-D10692CCD9E4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{744BB035-E9C6-444D-A921-B98BC1F96906}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GestaoMercadoriasApp.Infra", "GestaoMercadoriasApp.Infra\GestaoMercadoriasApp.Infra.csproj", "{7B7F1DB2-A7AF-4B02-A3AB-54D7E0A84E8D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C0454761-17D8-4CB2-A5BB-DF21EBE92892}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0454761-17D8-4CB2-A5BB-DF21EBE92892}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0454761-17D8-4CB2-A5BB-DF21EBE92892}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0454761-17D8-4CB2-A5BB-DF21EBE92892}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDCC8D47-9D77-48C5-AAD1-D10692CCD9E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDCC8D47-9D77-48C5-AAD1-D10692CCD9E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDCC8D47-9D77-48C5-AAD1-D10692CCD9E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDCC8D47-9D77-48C5-AAD1-D10692CCD9E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B7F1DB2-A7AF-4B02-A3AB-54D7E0A84E8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B7F1DB2-A7AF-4B02-A3AB-54D7E0A84E8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B7F1DB2-A7AF-4B02-A3AB-54D7E0A84E8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B7F1DB2-A7AF-4B02-A3AB-54D7E0A84E8D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{C0454761-17D8-4CB2-A5BB-DF21EBE92892} = {6D3B1DF4-6869-44B2-BAC7-8485AC61A69E}
+		{EDCC8D47-9D77-48C5-AAD1-D10692CCD9E4} = {C0D6EB31-573F-45C7-B966-96C31479672B}
+		{7B7F1DB2-A7AF-4B02-A3AB-54D7E0A84E8D} = {744BB035-E9C6-444D-A921-B98BC1F96906}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CFC67A1C-A6E7-4CFA-A33B-814092D9C1BE}
+	EndGlobalSection
+EndGlobal

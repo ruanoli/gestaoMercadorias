@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\GestaoMercadoriasApp.Presentation.props" />
+</Project>

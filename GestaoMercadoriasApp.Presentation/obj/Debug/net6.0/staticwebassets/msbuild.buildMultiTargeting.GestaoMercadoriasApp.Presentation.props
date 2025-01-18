@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\GestaoMercadoriasApp.Presentation.props" />
+</Project>

@@ -1,0 +1,11 @@
+C:\Users\ruan1\OneDrive\Área de Trabalho\Projetos\MVC\GestaoMercadoriasApp\GestaoMercadoriasApp\GestaoMercadoriasApp.Data\bin\Debug\net6.0\GestaoMercadoriasApp.Domain.deps.json
+C:\Users\ruan1\OneDrive\Área de Trabalho\Projetos\MVC\GestaoMercadoriasApp\GestaoMercadoriasApp\GestaoMercadoriasApp.Data\bin\Debug\net6.0\GestaoMercadoriasApp.Domain.dll
+C:\Users\ruan1\OneDrive\Área de Trabalho\Projetos\MVC\GestaoMercadoriasApp\GestaoMercadoriasApp\GestaoMercadoriasApp.Data\bin\Debug\net6.0\GestaoMercadoriasApp.Domain.pdb
+C:\Users\ruan1\OneDrive\Área de Trabalho\Projetos\MVC\GestaoMercadoriasApp\GestaoMercadoriasApp\GestaoMercadoriasApp.Data\obj\Debug\net6.0\GestaoMercadoriasApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruan1\OneDrive\Área de Trabalho\Projetos\MVC\GestaoMercadoriasApp\GestaoMercadoriasApp\GestaoMercadoriasApp.Data\obj\Debug\net6.0\GestaoMercadoriasApp.Domain.AssemblyInfoInputs.cache
+C:\Users\ruan1\OneDrive\Área de Trabalho\Projetos\MVC\GestaoMercadoriasApp\GestaoMercadoriasApp\GestaoMercadoriasApp.Data\obj\Debug\net6.0\GestaoMercadoriasApp.Domain.AssemblyInfo.cs
+C:\Users\ruan1\OneDrive\Área de Trabalho\Projetos\MVC\GestaoMercadoriasApp\GestaoMercadoriasApp\GestaoMercadoriasApp.Data\obj\Debug\net6.0\GestaoMercadoriasApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ruan1\OneDrive\Área de Trabalho\Projetos\MVC\GestaoMercadoriasApp\GestaoMercadoriasApp\GestaoMercadoriasApp.Data\obj\Debug\net6.0\GestaoMercadoriasApp.Domain.dll
+C:\Users\ruan1\OneDrive\Área de Trabalho\Projetos\MVC\GestaoMercadoriasApp\GestaoMercadoriasApp\GestaoMercadoriasApp.Data\obj\Debug\net6.0\refint\GestaoMercadoriasApp.Domain.dll
+C:\Users\ruan1\OneDrive\Área de Trabalho\Projetos\MVC\GestaoMercadoriasApp\GestaoMercadoriasApp\GestaoMercadoriasApp.Data\obj\Debug\net6.0\GestaoMercadoriasApp.Domain.pdb
+C:\Users\ruan1\OneDrive\Área de Trabalho\Projetos\MVC\GestaoMercadoriasApp\GestaoMercadoriasApp\GestaoMercadoriasApp.Data\obj\Debug\net6.0\ref\GestaoMercadoriasApp.Domain.dll

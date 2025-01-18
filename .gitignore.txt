@@ -1,0 +1,54 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build Results
+bin/
+obj/
+debug/
+release/
+
+# ASP.NET Scaffolding
+.scaffolding
+
+# Microsoft Azure
+.scm/
+*.azure*
+
+# Windows Azure
+*.publishsettings
+.publishxml
+*.azurePubxml
+scripts/
+
+# User-specific files
+*.rsuser
+*.rsx
+*.userprefs
+
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Logs
+*.log
+
+# Bundle Configurations
+.bundleconfig.json
+
+# NuGet
+*.nupkg
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Temporary Files
+~$*
+
+# Others
+.DS_Store
+Thumbs.db
