@@ -16,7 +16,34 @@ namespace GestaoMercadoriasApp.Presentation.Controllers
 
         public IActionResult Index()
         {
-            return View();
+            var productViewModel = new List<ProductConsultViewModel>();
+
+            try
+            {
+                var products = _productRepository.GetAll();
+
+                foreach (var product in products)
+                {
+                    productViewModel.Add(new ProductConsultViewModel
+                    {
+                        Id = product.Id,
+                        Name = product.Name,
+                        Description = product.Descript,
+                        Producer = product.Producer,
+                        RegistrationNumber = product.RegistrationNumber,
+                        Type = product.Type,
+                    });
+                }
+
+
+            }
+            catch (Exception)
+            {
+
+                throw;
+            }
+
+            return View(productViewModel);
         }
 
         public IActionResult Register()
@@ -57,19 +84,17 @@ namespace GestaoMercadoriasApp.Presentation.Controllers
 
         public IActionResult Edit(Guid id)
         {
+            var productViewModel = new ProductEditViewModel();
+
             try
             {
                 var product = _productRepository.GetById(id);
-                var productViewModel = new ProductEditViewModel()
-                {
-                    Name = product.Name,
-                    Description = product.Descript,
-                    Producer = product.Producer,
-                    RegistrationNumber = product.RegistrationNumber,
-                    Type = product.Type,
-                };
 
-                return View(productViewModel);
+                productViewModel.Name = product.Name;
+                productViewModel.Description = product.Descript;
+                productViewModel.Producer = product.Producer;
+                productViewModel.RegistrationNumber = product.RegistrationNumber;
+                productViewModel.Type = product.Type;
 
             }
             catch (Exception ex)
@@ -78,7 +103,7 @@ namespace GestaoMercadoriasApp.Presentation.Controllers
                 TempData["MessageErro"] = ex.Message;
             }
 
-            return View();
+            return View(productViewModel);
         }
 
         [HttpPost]
@@ -136,7 +161,7 @@ namespace GestaoMercadoriasApp.Presentation.Controllers
                 TempData["MessageErro"] = ex.Message;
             }
 
-            return View();
+            return RedirectToAction("Index", "Product");
         }
     }
 }

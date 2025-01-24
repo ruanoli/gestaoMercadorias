@@ -1,0 +1,66 @@
+﻿@model GestaoMercadoriasApp.Presentation.ViewModels.ProductEditViewModel
+
+@{
+    ViewData["Title"] = "Edição de Produtos";
+}
+
+<h2>Edição de Produtos</h2>
+
+@using (Html.BeginForm())
+{
+    @Html.HiddenFor(x => x.Id);
+
+    <div class="container">
+        <div class="row">
+            <div class="col-md-4 mb-4">
+                <label class="form-label">Nome:</label>
+                @Html.TextBoxFor(x => x.Name, new { @class = "form-control" })
+                <span class="text-danger">
+                    @Html.ValidationMessageFor(x => x.Name)
+                </span>
+            </div>
+
+            <div class="col-md-4 mb-4">
+                <label class="form-label">Número de Registro:</label>
+                @Html.TextBoxFor(x => x.RegistrationNumber, new { @class = "form-control", @type = "number" })
+                <span class="text-danger">
+                    @Html.ValidationMessageFor(x => x.RegistrationNumber)
+                </span>
+            </div>
+
+            <div class="col-md-4 mb-4">
+                <label class="form-label">Tipo:</label>
+                @Html.TextBoxFor(x => x.Type, new { @class = "form-control" })
+                <span class="text-danger">
+                    @Html.ValidationMessageFor(x => x.Type)
+                </span>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-4 mb-4">
+                <label class="form-label">Fornecedor:</label>
+                @Html.TextBoxFor(x => x.Producer, new { @class = "form-control" })
+                <span class="text-danger">
+                    @Html.ValidationMessageFor(x => x.Producer)
+                </span>
+            </div>
+
+            <div class="col-md-8 mb-4">
+                <label class="form-label">Descrição:</label>
+                @Html.TextAreaFor(x => x.Description, new { @class = "form-control" })
+                <span class="text-danger">
+                    @Html.ValidationMessageFor(x => x.Description)
+                </span>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-12">
+                <input type="submit" class="btn btn-success" value="Editar" />
+                <a class="btn btn-secondary" href="/Product/Index">Voltar</a>
+            </div>
+
+        </div>
+    </div>
+}
